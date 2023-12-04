@@ -1,0 +1,45 @@
+body {
+  background-color: #61267f;
+}
+
+p {
+  color: #61267f;
+}
+div {
+  width: 30%;
+  height: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 200px;
+  background-color: aliceblue;
+  border-radius: 10px;
+}
+
+form {
+  padding-top: 20px;
+  padding: 30px;
+}
+
+#testo {
+  padding-left: 10%;
+  padding: 10px;
+}
+
+#aggiungi {
+  border-style: none;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #a5edf0;
+  font-size: larger;
+}
+ul {
+  width: 90%;
+  align-items: left;
+  list-style: none;
+  background-color: aliceblue;
+  padding-bottom: 10px;
+}
+ul li {
+  background-color: rgb(201, 195, 195);
+  margin: 5px;
+}
